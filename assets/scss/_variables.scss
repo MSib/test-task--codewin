@@ -1,0 +1,13 @@
+:root {
+  font-family: Gilroy, sans-serif;
+
+  --c-text: #fff;
+  --c-bg-1: #0f0f0f;
+  --c-bg-2: #00011a;
+  --c-bg: var(--c-bg-1);
+}
+
+$bp-l: 1200px;
+$bp-m: 991px;
+$bp-s: 768px;
+$bp-xs: 375px;
