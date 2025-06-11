@@ -1,7 +1,6 @@
-<template>
-  <TheHeader />
-  <TheContent>
-    <NuxtPage />
-  </TheContent>
-  <TheFooter />
+<template lang="pug">
+  TheHeader 
+  main.content
+    NuxtPage 
+  TheFooter 
 </template>

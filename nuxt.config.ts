@@ -13,6 +13,6 @@ export default defineNuxtConfig({
   },
   compatibilityDate: '2025-06-10',
   devtools: { enabled: true },
-  modules: ['nuxt-svgo'],
+  modules: ['nuxt-svgo', 'nuxt-swiper'],
   css: ['/public/fonts/gilroy/stylesheet.css','~/assets/scss/main.scss'],
 })
